@@ -105,11 +105,6 @@ const Footer = () => {
           <div>
             Designed &amp; Built by Nikitta K S<br></br>
           </div>
-
-          {githubInfo.stars && githubInfo.forks && (
-            <StyledGitHubInfo>
-            </StyledGitHubInfo>
-          )}
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>

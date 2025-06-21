@@ -44,14 +44,7 @@ const Head = ({ metadata }) => (
     <meta itemProp="name" content={metadata.title} />
     <meta itemProp="description" content={metadata.description} />
     <meta itemProp="image" content={`${config.siteUrl}${ogImage}`} />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:url" content={metadata.siteUrl} />
-    <meta name="twitter:site" content={config.twitterHandle} />
-    <meta name="twitter:creator" content={config.twitterHandle} />
-    <meta name="twitter:title" content={metadata.title} />
-    <meta name="twitter:description" content={metadata.description} />
-    <meta name="twitter:image" content={`${config.siteUrl}${ogImage}`} />
-    <meta name="twitter:image:alt" content={metadata.title} />
+
 
     <link rel="apple-touch-icon" sizes="57x57" href={appleIcon57x57} />
     <link rel="apple-touch-icon" sizes="60x60" href={appleIcon60x60} />

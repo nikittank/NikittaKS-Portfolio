@@ -1,6 +1,6 @@
 import { hex2rgba } from '@utils';
 
-const ACCENT = '#db4b4b';
+const ACCENT = '#efb8c8';
 const DARK_BG = '#000000';
 const BG = '#000000';
 
@@ -9,11 +9,11 @@ const theme = {
     darkNavy: DARK_BG,
     navy: BG,
     lightNavy: '#242424',
-    lightestNavy: '#ffffff',
-    slate: '#ffffff',
-    lightSlate: '#ffffff',
-    lightestSlate: '#ffffff',
-    white: '#ffffff',
+    lightestNavy: '#cbcbcb',
+    slate: '#cbcbcb',
+    lightSlate: '#cbcbcb',
+    lightestSlate: '#cbcbcb',
+    white: '#cbcbcb',
     green: ACCENT,
     transGreen: hex2rgba(ACCENT, 0.07),
     shadowNavy: hex2rgba(DARK_BG, 0.7),
@@ -56,6 +56,21 @@ const theme = {
 
   navDelay: 1000,
   loaderDelay: 2000,
+
+  // Add global styles including text selection
+  globalStyles: `
+    ::selection {
+      background-color: ${ACCENT};
+      color: #ffffff;
+    }
+    ::-moz-selection {
+      background-color: ${ACCENT};
+      color: #ffffff;
+    }
+    body {
+      -webkit-tap-highlight-color: ${ACCENT};
+    }
+  `,
 };
 
 export default theme;

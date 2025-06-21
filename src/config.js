@@ -12,7 +12,6 @@ module.exports = {
   location: 'Tamil Nadu, India',
   email: 'nikittaks2003@gmail.com',
   github: 'https://github.com/nikittank',
-  twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
@@ -20,19 +19,15 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'www.linkedin.com/in/nikitta-ks',
+      url: 'https://www.linkedin.com/in/nikitta-ks/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io',
+      name: 'LeetCode',
+      url: 'https://leetcode.com/u/nikittaks/',
     },
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/_nikittx_nk_/',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/',
     },
   ],
 

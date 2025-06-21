@@ -49,9 +49,19 @@ const GlobalStyle = createGlobalStyle`
     }
   }
 
+  /* Updated text selection styles */
   ::selection {
-    background-color: ${colors.slate};
-    color: ${colors.lightestSlate};
+    background-color: ${colors.green};
+    color: ${colors.white};
+    text-shadow: none;
+  }
+  ::-moz-selection {
+    background-color: ${colors.green};
+    color: ${colors.white};
+    text-shadow: none;
+  }
+  body {
+    -webkit-tap-highlight-color: ${colors.green};
   }
 
   #root {

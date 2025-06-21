@@ -1,7 +1,7 @@
 ---
 date: '2023-05-31'
 title: 'Loan Eligibility Predictor'
-github: 'https://github.com/nikittank'
+github: 'https://github.com/nikittank/Loan-Eligibility-Prediction.git'
 external: ''
 tech:
   - Python

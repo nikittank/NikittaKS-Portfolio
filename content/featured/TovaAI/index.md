@@ -2,8 +2,8 @@
 date: '4'
 title: 'TOVA AI – Text-to-SQL Agent'
 cover: 'tovaai.png'
-github: 'https://github.com/yourusername/tova-ai'
-external: 'https://tova-ai-demo.com'
+github: 'https://github.com/nikittank'
+external: ''
 tech:
   - Ollama
   - Gemini AI

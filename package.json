@@ -12,9 +12,7 @@
   },
   "keywords": [
     "gatsby"
-  ],
-  "license": "MIT",
-  "scripts": {
+  ],  "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",

@@ -1,7 +1,7 @@
 ---
 date: '2025-04-10'
 title: 'Visionary UI'
-github: 'https://github.com/nikittank'
+github: 'https://github.com/nikittank/Visionary-Design-to-Code.git'
 external: ''
 tech:
   - React

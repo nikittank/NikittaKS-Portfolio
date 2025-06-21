@@ -2,7 +2,7 @@
 date: '2023-11-01'
 title: 'Food Delivery App'
 cover: 'tabkha.png'
-github: ''
+github: 'https://github.com/nikittank/Tabkha-MERN-Food-Delivery-App.git'
 external: ''
 tech:
   - React

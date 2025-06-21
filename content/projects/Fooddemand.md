@@ -1,7 +1,7 @@
 ---
 date: '2022-05-16'
 title: 'Food Demand Forecasting'
-github: 'hhttps://github.com/nikittank'
+github: 'https://github.com/nikittank/Food-Demand-Forecasting.git'
 external: ''
 tech:
   - Python

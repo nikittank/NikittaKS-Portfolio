@@ -1,13 +1,13 @@
 module.exports = {
   siteTitle: 'Nikitta K S',
   siteDescription:
-    'Nikitta K S is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Nikitta K S is a final-year Integrated M.Sc. AI & ML student from India, passionate about building AI-powered tools and solving real-world problems through code.',
   siteKeywords:
-    'Nikitta K S, Nikitta, AI Engineer, software engineer, web developer, javascript, python, java',
+    'Nikitta K S, Nikitta, AI Developer, Software Developer, Python, SQL, AI Projects, Web Developer, Student, Coimbatore Institute of Technology',
   siteUrl: 'https://github.com/nikittank',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: 'G-Z2YXYK9BX4',
+  googleVerification: 'dlSPDHlxSD7hwNP9_nGcLLQ2nHlaMI6vekuwrdCeGIs',
   name: "Nikitta K S",
   location: 'Tamil Nadu, India',
   email: 'nikittaks2003@gmail.com',

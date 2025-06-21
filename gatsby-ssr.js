@@ -1,7 +1,22 @@
-/**
- * Implement Gatsby's SSR (Server Side Rendering) APIs in this file.
- *
- * See: https://www.gatsbyjs.org/docs/ssr-apis/
- */
+import React from "react";
 
- // You can delete this file if you're not using it
+export const onRenderBody = ({ setHeadComponents }) => {
+  setHeadComponents([
+    <script
+      async
+      key="gtag-script"
+      src="https://www.googletagmanager.com/gtag/js?id=G-Z2YXYK9BX4"
+    />,
+    <script
+      key="gtag-inline"
+      dangerouslySetInnerHTML={{
+        __html: `
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-Z2YXYK9BX4');
+        `,
+      }}
+    />,
+  ]);
+};

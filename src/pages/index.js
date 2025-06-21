@@ -4,6 +4,7 @@ import PropTypes from 'prop-types';
 import { Layout, Hero, About, Jobs, Featured, Projects, Contact } from '@components';
 import styled from 'styled-components';
 import { Main } from '@styles';
+import { Helmet } from "react-helmet";
 
 const StyledMainContainer = styled(Main)`
   counter-reset: section;
@@ -11,6 +12,19 @@ const StyledMainContainer = styled(Main)`
 
 const IndexPage = ({ location, data }) => (
   <Layout location={location}>
+    <Helmet>
+      {/* Google Analytics Tag */}
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z2YXYK9BX4"></script>
+      <script>
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-Z2YXYK9BX4');
+        `}
+      </script>
+    </Helmet>
+
     <StyledMainContainer className="fillHeight">
       <Hero data={data.hero.edges} />
       <About data={data.about.edges} />
@@ -21,6 +35,7 @@ const IndexPage = ({ location, data }) => (
     </StyledMainContainer>
   </Layout>
 );
+
 
 IndexPage.propTypes = {
   location: PropTypes.object.isRequired,

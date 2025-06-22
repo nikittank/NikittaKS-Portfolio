@@ -61,7 +61,7 @@ const Footer = () => {
         </StyledSocialList>
       </StyledSocial>
       <StyledMetadata tabindex="-1">
-        <div>Redesigned by Nikitta K S</div>
+        <div></div>
       </StyledMetadata>
     </StyledContainer>
   );

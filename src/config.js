@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Nikitta K S is a final-year Integrated M.Sc. AI & ML student from India, passionate about building AI-powered tools and solving real-world problems through code.',
   siteKeywords:
-    'Nikitta K S, Nikitta, AI Developer, Software Developer, Python, SQL, AI Projects, Web Developer, Student, Coimbatore Institute of Technology',
+    'Nikitta K S, Nikitta, AI Developer, Full-Stack Developer, Python, SQL, AI Projects, Web Developer, Student, Coimbatore Institute of Technology',
   siteUrl: 'https://github.com/nikittank',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-Z2YXYK9BX4',

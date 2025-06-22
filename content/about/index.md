@@ -16,10 +16,10 @@ skills:
   - JavaScript (React, Node)
 ---
 
-Hello! I'm Nikitta K S, a passionate AI and Machine Learning student with expertise in both artificial intelligence and full-stack development.
+Hello! I'm Nikitta K S, a passionate AI and Machine Learning student with experience in both AI and full-stack development.
 
-I am a dedicated, goal-oriented individual with strong technical skills and problem-solving abilities. I enjoy working on innovative projects that combine AI with practical applications.
+I am a dedicated and goal-oriented individual with strong problem-solving abilities and a love for learning. I enjoy working on innovative projects that bring AI to life in meaningful ways.
 
-I'm currently pursuing my Integrated Masters in Artificial Intelligence and Machine Learning at Coimbatore Institute of Technology (2021-Present) with a CGPA of 8.38/10.
+I’m currently in my 5th year of pursuing an Integrated Masters in Artificial Intelligence and Machine Learning at Coimbatore Institute of Technology (2021 – Present).
 
-Here are some of my technical skills and areas of expertise:
+Here are a few technologies I’ve been working with recently:

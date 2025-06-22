@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import config from '@config';
 
-import ogImage from '@images/logo.png';
+import ogImage from '@images/logo_N.png';
 
 const Head = ({ metadata }) => (
   <Helmet>

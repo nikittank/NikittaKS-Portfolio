@@ -33,6 +33,8 @@ This portfolio was built using the following technologies and tools:
 
 ---
 
+Built by #bchiang7 Redesigned by Nikitta K S
+
  Redesigned by **Nikitta K S***.  
 
 

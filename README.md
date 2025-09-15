@@ -1,13 +1,14 @@
 # 🌐 Portfolio — Nikitta K S  
 
-[nikittaksportfolio.netlify.app](https://nikittaksportfolio.netlify.app)
+[nikittaksportfolio.netlify.app](https://nikittaksportfolio.netlify.app)  
 
+---
 
 ## 🚀 Introduction  
 Hello, my name is **Nikitta K S**.  
-I’m an **AI Engineer & Full-Stack Developer**, currently pursuing an **Integrated Masters in Artificial Intelligence and Machine Learning** at **Coimbatore Institute of Technology (2021 – Present)**.  
+I’m an **AI Engineer** and **passionate Full-Stack Developer**, currently pursuing an **Integrated Masters in Artificial Intelligence and Machine Learning** at **Coimbatore Institute of Technology (2021 – Present)**.  
 
-Passionate about **Artificial Intelligence, Web Development, and building innovative solutions**, I love experimenting with new technologies and applying them to solve real-world problems.  
+I’m deeply passionate about **Artificial Intelligence, Web Development, and building innovative solutions**. I love experimenting with new technologies and applying them to solve real-world problems.  
 
 ---
 
@@ -33,8 +34,11 @@ This portfolio was built using the following technologies and tools:
 
 ---
 
-Built by #bchiang7 Redesigned by Nikitta K S
+## 📬 Contact  
+- 📧 Email: **nikittaks2003@gmail.com**  
+- 💼 Portfolio Website: [nikittaksportfolio.netlify.app](https://nikittaksportfolio.netlify.app)  
 
- Redesigned by **Nikitta K S***.  
+---
 
-
+🔹 *Original design by [bchiang7](https://github.com/bchiang7)*  
+✨ *Redesigned by **Nikitta K S***  

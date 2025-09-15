@@ -16,7 +16,7 @@ skills:
   - JavaScript (React, Node)
 ---
 
-Hello! I'm Nikitta K S, a passionate AI and Machine Learning student focused on AI Engineering and additional experience in full-stack development.
+Hello! I'm Nikitta K S, a passionate AI and Machine Learning student with experience in both AI and full-stack development.
 
 I am a dedicated and goal-oriented individual with strong problem-solving abilities and a love for learning. I enjoy working on innovative projects that bring AI to life in meaningful ways.
 

@@ -34,11 +34,5 @@ This portfolio was built using the following technologies and tools:
 
 ---
 
-## 📬 Contact  
-- 📧 Email: **nikittaks2003@gmail.com**  
-- 💼 Portfolio Website: [nikittaksportfolio.netlify.app](https://nikittaksportfolio.netlify.app)  
-
----
-
 🔹 *Original design by [bchiang7](https://github.com/bchiang7)*  
 ✨ *Redesigned by **Nikitta K S***  

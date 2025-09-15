@@ -1,4 +1,4 @@
-# 🌐 Portfolio — Nikitta K S  
+# Portfolio - Nikitta K S  
 
 [nikittaksportfolio.netlify.app](https://nikittaksportfolio.netlify.app)  
 

@@ -24,9 +24,6 @@ Natural language to SQL interface with smart query generation using Gemini + Oll
 ### 🔹 Food Delivery Platform  
 End-to-end React + Node.js based system with Stripe integration and admin controls.
 
-### 🔹 Food Demand Forecasting  
-Machine learning-based meal order predictor with GUI (R2 score ~0.86).
-
 ### 🔹 Visionary UI  
 AI tool converting UI sketches or voice inputs into clean HTML/CSS.
 
@@ -35,14 +32,10 @@ View all projects at 👉 [nikittaksportfolio.netlify.app](https://nikittaksport
 ## 🛠️ Tech Stack
 
 **Languages & Tools:**  
-Python, JavaScript, SQL, TensorFlow, Flask, React, Node.js, Tailwind CSS, Git, Pandas, OpenCV, Tkinter
+Python, JavaScript, SQL, TensorFlow, Flask, React, Node.js, Tailwind CSS, Git, Pandas, OpenCV
 
 **ML/AI Areas:**  
 NLP, OCR, STT, Text-to-SQL, Recommendation, Classification, Forecasting
-
-## 📬 Contact
-
-Feel free to reach out via email or connect on LinkedIn:
 
 - **Email**: nikitta1212@gmail.com  
 - **LinkedIn**: [linkedin.com/in/nikitta-ks](https://linkedin.com/in/nikitta-ks)  

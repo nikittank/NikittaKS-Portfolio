@@ -3,7 +3,7 @@ date: '4'
 title: 'TOVA AI – Text-to-SQL Agent'
 cover: 'tovaai.png'
 github: 'https://github.com/nikittank'
-external: ''
+external: 'https://tova-ai.netlify.app/'
 tech:
   - Gemini AI
   - MySQL

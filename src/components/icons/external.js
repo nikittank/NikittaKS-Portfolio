@@ -2,20 +2,18 @@ import React from "react";
 
 const IconExternal = () => (
   <svg
-    className="w-6 h-6 text-white"
-    aria-hidden="true"
+    viewBox="0 0 24 24"
+    fill="none"
     xmlns="http://www.w3.org/2000/svg"
     width="24"
     height="24"
-    fill="none"
-    viewBox="0 0 24 24"
   >
     <path
-      stroke="currentColor"
+      d="M14 7H16C18.7614 7 21 9.23858 21 12C21 14.7614 18.7614 17 16 17H14M10 7H8C5.23858 7 3 9.23858 3 12C3 14.7614 5.23858 17 8 17H10M8 12H16"
+      stroke="white"      // <-- white stroke for black background
+      strokeWidth="2"     // React camelCase
       strokeLinecap="round"
       strokeLinejoin="round"
-      strokeWidth="2"
-      d="M13.213 9.787a3.391 3.391 0 0 0-4.795 0l-3.425 3.426a3.39 3.39 0 0 0 4.795 4.794l.321-.304m-.321-4.49a3.39 3.39 0 0 0 4.795 0l3.424-3.426a3.39 3.39 0 0 0-4.794-4.795l-1.028.961"
     />
   </svg>
 );

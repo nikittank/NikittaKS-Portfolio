@@ -24,14 +24,12 @@ skills:
   - JavaScript (React, Node.js)
 ---
 
-I’m currently pursuing an Integrated Masters in Artificial Intelligence and Machine Learning at Coimbatore Institute of Technology, where I focus on building practical AI systems that solve real problems.
+I’m pursuing an Integrated Masters in Artificial Intelligence and Machine Learning at Coimbatore Institute of Technology, focused on building practical AI systems that solve real problems.
 
-I have worked on AI-driven products at Elyts LLC, contributing to resume parsing pipelines, PDF-based RAG systems, compliance data extraction, LLM-powered chatbots, and meeting data indexing using Neo4j knowledge graphs. I also worked on validating multi-agent workflows inside a no-code AI workflow builder.
+At Elyts LLC, I worked on resume parsing pipelines, PDF-based RAG systems, compliance data extraction, LLM-powered chatbots, and knowledge graph indexing using Neo4j, along with testing multi-agent workflows in an AI workflow builder.
 
-At Finari Services, I built NLP-based automation tools, OCR systems for document processing, predictive models for customer analytics, and speech-to-task pipelines using AI services.
+At Finari Services, I built NLP automation tools, OCR systems, predictive models, and speech-to-task AI pipelines. As a freelance AI developer with Raarya, I developed a real-time AI voice assistant using STT, TTS, and RAG for property query automation.
 
-As a freelance AI developer with Raarya (Real Estate & Construction), I developed a real-time AI voice assistant using STT, TTS, and RAG to automate customer communication and handle property-related queries.
-
-I enjoy designing complete AI pipelines from data extraction and embeddings to vector search and LLM integration and turning complex ideas into simple, working solutions.
+I enjoy designing end-to-end AI pipelines and turning complex ideas into simple, working solutions.
 
 Here are a few technologies I’ve been working with recently:

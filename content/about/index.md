@@ -19,7 +19,6 @@ skills:
   - Ollama
   - Google Gemini
   - FastAPI
-  - Firebase
   - HTML
   - CSS (Tailwind)
   - JavaScript (React, Node.js)

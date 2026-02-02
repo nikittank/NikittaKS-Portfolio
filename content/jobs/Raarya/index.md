@@ -1,9 +1,9 @@
 ---
-date: '2024-12-01'
-title: 'AI Engineer Intern - Freelance '
+date: '2025-01-01'
+title: 'AI Developer Intern - Freelance '
 company: 'Raarya'
 location: 'Hybrid'
-range: 'December 2024 – April 2025'
+range: 'January 2025 – April 2025'
 url: ''
 ---
 

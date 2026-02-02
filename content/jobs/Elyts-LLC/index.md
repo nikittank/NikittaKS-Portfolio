@@ -3,7 +3,7 @@ date: '2025-12-01'
 title: 'Data Science Intern'
 company: 'Elyts LLC'
 location: 'Dubai - Remote'
-range: 'December 2024 – Present'
+range: 'December 2025 – Present'
 url: ''
 ---
 
